@@ -1,0 +1,9 @@
+/datos: Contiene las hojas de cálculo (.xlsx) resultantes del proceso de selección y extracción de datos. Concretamente, en esta carpeta se encuentran:
+
+- {Matriz Articulos.xlsx} Hoja de cálculo con los 159 artículos analizados: Contiene el registro inicial y los metadatos de todos los documentos evaluados durante las fases de filtrado.
+
+- {InformacionArticulos.xlsx} Hoja de cálculo con los 17 artículos incluidos: Base de datos central donde se da respuesta transversal a todas las RQs de los estudios primarios finales.
+
+- {CapacidadesIA.xlsx} Hoja de cálculo con los 17 artículos, sus capacidades de IA y el GAP detectado: Detalla las capacidades de IA extraidas (RQ4) y las clasifica (RQ5).
+
+- {PropositosDetectados.xlsx} Hoja de cálculo con los 17 artículos y sus propósitos detectados: Desglose cualitativo de los objetivos de aprendizaje (RQ7) extraídos en cada estudio.
