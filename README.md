@@ -24,7 +24,7 @@ El repositorio está organizado en los siguientes directorios para facilitar la 
 
 * 📂 **`/datos`**: Contiene las bases de datos en bruto (.xlsx). Incluye el registro inicial de los 159 artículos científicos examinados durante las fases de filtrado, la hoja de extracción final con los **17 artículos primarios** incluidos y categorizados según sus capacidades de IA. Además, cuenta con los literales extraídos de las capacidades de IA identificadas y los propósitos detectados en cada uno de esos 17 artículos.
 * 📂 **`/dashboard`**: Contiene la herramienta analítica interactiva desarrollada en **Microsoft Power BI** (`.pbix`). Permite visualizar y cruzar de forma dinámica los datos de las Preguntas de Investigación. Se incluyen capturas previas de las diferentes pestañas.
-* 📂 **`/documentacion`**: (*En desarrollo*) Contendrá el código fuente de la memoria escrita en LaTeX, el archivo de bibliografía en formato BibTeX, el protocolo exacto de búsqueda y el PDF con la memoria final.
+
 
 ## Vista Previa del Cuadro de Mandos
 
